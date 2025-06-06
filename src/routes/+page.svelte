@@ -16,7 +16,15 @@
 	imageSrc="/sample.png"
 	generating
 />
-<LogoScroller label="" generating />
+<LogoScroller
+  label="Trusted by industry leaders"
+  logoUrls={[
+    'https://logo.clearbit.com/jpmorganchase.com',
+    'https://logo.clearbit.com/novartis.com',
+    'https://logo.clearbit.com/lockheedmartin.com',
+    'https://logo.clearbit.com/prudential.com'
+  ]}
+/>
 
 <Summary
 	generating
